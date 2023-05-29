@@ -1,0 +1,159 @@
+body
+{
+	background-color: #f2ffcc;
+}
+.divi h1
+{
+	color: black;
+	font-family: Comic Sans MS;
+	text-align: center;
+}
+.navi 
+{
+	width: 100%;
+	background-color: #66cc66;
+	text-align: center;
+	cursor: default;
+}
+
+.navi ul 
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 5pt;
+	font-size: 13pt;
+}
+
+.navi ul li 
+{
+	display: inline-block;
+	position: relative;
+	font-size: 13pt;
+}
+
+.navi ul li a 
+{
+	text-decoration: none;
+	display: block;
+	padding: 10px 20px;
+	color: white;
+}
+
+.navi ul li a:hover 
+{
+	background-color: #9fdf9f;
+	font-size: 14pt;
+}
+
+.navi ul li ul 
+{
+	display: none;
+	position: absolute;
+	background-color: #99e699;
+}
+.navi ul li:hover ul 
+{
+	display: block;
+}
+
+.navi ul li ul li 
+{
+	display: block;
+}
+
+.navi ul li ul li a 
+{
+	padding: 5px 15px;
+	display: block;
+}
+.about h2
+{
+	font-family: Cursive;
+	text-align: center;
+	color: #00cc00;
+}
+.about h3
+{
+	font-family: serif;
+	text-align: center;
+}
+.about p
+{
+	font-family: system-ui;
+	text-align: center;
+}
+.pro td
+{
+	font-family: Georgia;
+	text-align: center;
+}
+.cu h2
+{
+	font-family: Cursive;
+	text-align: center;
+	color: #00cc00;
+}
+.cu p 
+{
+	font-family: Garamond;
+	text-align: center;
+	color: black;
+}
+.b1
+{
+     font-size: 20px;
+     color: black;
+     text-align: center;   
+     border: 5px dashed green;
+	 width: 30%;
+	 margin: auto;
+	 padding: 10px;
+}
+.b2
+{
+     font-size: 20px;
+     color: black;
+     text-align: center;   
+     border: 5px dotted green;
+	 width: 30%;
+	 margin: auto;
+	 padding: 10px;
+}
+.b3	
+{
+     font-size: 20px;
+     color: black;
+     text-align: center;   
+     border: 5px double green;
+	 width: 30%;
+	 margin: auto;
+	 padding: 10px;
+}
+.b1 p 
+{
+	font-size: 11px;
+     color: black;
+     text-align: center;  
+}
+.b2 p 
+{
+	font-size: 11px;
+     color: black;
+     text-align: center;  
+}
+.b3 p 
+{
+	font-size: 11px;
+     color: black;
+     text-align: center;  
+}
+.sample	
+{
+     font-size: 11px;
+     color: black;
+     text-align: center;   
+     border: 5px groove green;
+	 width: 30%;
+	 margin: auto;
+	 padding: 10px;
+}
